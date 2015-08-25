@@ -1,0 +1,35 @@
+.gradle/
+.idea/*
+!.idea/codeStyleSettings.xml
+build/
+/*/build/
+local.properties
+*.iml
+proguard-autogen.txt
+
+#Crashlytics
+*com_crashlytics_export_strings.xml
+crashlytics-build.properties
+
+# OS auto generated files
+.DS_Store
+ctags
+
+# Built application files
+*.apk
+*.ap_
+
+# Files for the Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+
+local.properties
+
+# Log Files
+*.log
